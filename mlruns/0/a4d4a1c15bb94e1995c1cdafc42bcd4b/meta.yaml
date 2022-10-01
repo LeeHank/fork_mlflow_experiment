@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/GoogleDrive/%E6%88%91%E7%9A%84%E9%9B%B2%E7%AB%AF%E7%A1%AC%E7%A2%9F/0.%20codepool_python/MLflow_Experiment/mlruns/0/a4d4a1c15bb94e1995c1cdafc42bcd4b/artifacts
+end_time: 1664636417674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a4d4a1c15bb94e1995c1cdafc42bcd4b
+run_uuid: a4d4a1c15bb94e1995c1cdafc42bcd4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1664636401247
+status: 3
+tags: []
+user_id: hanklee
