@@ -119,3 +119,5 @@ for params in params_list:
 #   params = {'epochs': epochs,
 #             'convSize': convSize}
 #   run_model(params)
+
+# https://ithelp.ithome.com.tw/articles/10266348
